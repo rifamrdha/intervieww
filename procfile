@@ -1,1 +1,2 @@
-web: uvicorn app:app --host 0.0.0.0 --port $PORT
+Uvicorn running on http://0.0.0.0:PORT
+
